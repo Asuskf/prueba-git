@@ -1,1 +1,2 @@
-esto es un intento
+esto es un intento integral
+prin('conflicto')
